@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0002181","cytoplasmic translation","5/29","171/28928",0.0292397660818713,29.1671708005646,11.7025035891497,7.2054146486063e-07,0.000589402918255995,0.000405778614421513,"Rpl8/Rps18/Rps21/Rps25/Rpl14",5

@@ -1,0 +1,43 @@
+# ---- Raw / heavy data (never commit; available via GEO GSE268971) ----
+*.h5ad
+*.loom
+*.rds
+*.RData
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.gtf
+*.gtf.gz
+*.tar
+*.tar.gz
+*.parquet
+salmon_out/
+quant.sf
+
+# ---- Figures / documents ----
+*.png
+*.pdf
+*.svg
+*.docx
+
+# ---- Broadly ignore derived tables everywhere ... ----
+*.csv
+*.tsv
+*.xlsx
+
+# ---- ... EXCEPT the curated supplementary tables (S2-S11) ----
+!supplementary_tables/
+!supplementary_tables/**
+
+# ---- Caches / env ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+.venv/
+env/
+.DS_Store
+Thumbs.db

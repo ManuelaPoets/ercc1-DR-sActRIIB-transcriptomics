@@ -1,0 +1,7 @@
+# Bulk RNA-seq processing (nf-core/rnaseq v3.9 via Nextflow v23.10.1, Docker)
+STAR        2.7.10a
+Salmon      1.5.2
+TrimGalore  0.6.7
+cutadapt    3.4
+# Reference: GRCm39, Ensembl release 110
+# snRNA-seq alignment: Cell Ranger 7.0.0, reference mm10-2020-A (GRCm38)

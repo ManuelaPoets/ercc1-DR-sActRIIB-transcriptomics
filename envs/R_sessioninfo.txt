@@ -1,0 +1,13 @@
+# R 4.4.3  (bulk DESeq2, rescue framework, CellChat, Seurat integration)
+# Ambient RNA correction done in a separate R 4.3.1 env (SoupX 1.6.2).
+DESeq2        1.46.0
+tximport      1.34.0
+ashr          2.2.63
+Seurat        5.4.0
+SoupX         1.6.2
+clusterProfiler 4.14.6
+CellChat      1.6.1
+ComplexHeatmap  2.25.2
+igraph        2.2.1
+reticulate    1.44.1
+org.Mm.eg.db  3.20.0
